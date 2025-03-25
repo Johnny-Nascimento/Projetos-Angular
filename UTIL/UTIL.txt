@@ -1,0 +1,5 @@
+// Ao copiar um projeto angular, talvez seja necessário rodar este comando para remover as configurações antigas e instalar todos os pacotes novamente.
+rm -rf node_modules package-lock.json
+npm install
+
+//
